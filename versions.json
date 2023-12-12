@@ -16,6 +16,7 @@
       "jdk17/temurin-alpine",
       "jre17/temurin-alpine",
       "jdk17/corretto-al2023",
+      "jdk17/corretto-al2",
       "jdk17/corretto-alpine3.18",
       "jdk17/corretto-alpine3.17",
       "jdk17/corretto-alpine3.16",
